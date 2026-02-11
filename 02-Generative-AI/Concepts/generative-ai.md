@@ -29,4 +29,4 @@ It is a subset of artificial intelligence that uses machine learning models to g
 - Data augmentation
 
 ## Gen AI mindmap
-[mindmap](./gen-ai-mindmap.drawio.png)
+![mindmap](./gen-ai-mindmap.drawio.png)
