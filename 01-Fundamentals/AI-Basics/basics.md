@@ -2,7 +2,7 @@
 AI is a field of computer science dedicated to solving problems that we commonly associate with human intelligence.
 
 ## Diagram
-[diagram](./ai-diagram.drawio)
+[diagram](./ai-diagram.png)
 
 Flow:
 - Data scientist trains the AI model with images from datasets
@@ -23,4 +23,4 @@ AI can be used for different purposes;
 
 ### Artificial Intelligence breakdown
 
-[breakdown](./ai-breakdown.drawio)
+[breakdown](./ai-breakdown.png)
