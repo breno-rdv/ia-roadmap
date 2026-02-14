@@ -4,6 +4,7 @@ This section focuses on Large Language Models, their architectures, training, an
 
 ## Topics
 
+- **Concepts**: FM, LLM, Tokens, Embeddings, etc.
 - **Architectures**: GPT, BERT, T5, LLaMA, Claude, and other LLM architectures
 - **Training-and-Fine-Tuning**: Pre-training, fine-tuning, RLHF, LoRA, QLoRA, and other techniques
 - **Prompt-Engineering**: Techniques for effective prompting, few-shot learning, chain-of-thought
