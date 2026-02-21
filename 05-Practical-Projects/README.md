@@ -1,12 +1,13 @@
 # Practical Projects
 
-This section contains hands-on projects, tutorials, and code examples to apply your knowledge.
+This section contains hands-on projects, tutorials, spikes, and code examples to apply your knowledge.
 
 ## Topics
 
 - **Tutorials**: Step-by-step guides for building AI applications
 - **Code-Examples**: Reusable code snippets and implementations
 - **Hands-On-Labs**: Practical exercises and lab environments
+- **Spikes**: Business Ideas validation 
 
 ## Project Ideas
 
