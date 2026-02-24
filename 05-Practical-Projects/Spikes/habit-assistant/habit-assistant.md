@@ -9,6 +9,8 @@ The Habit Assistant is a personalized, AI-powered companion that helps users bui
 
 ** Using n&n **
 
+![Flow](./habit-assistant-n8n.drawio.png)
+
 ** Using Amazon Bedrock with RAG **
 
 ** Mixing AWS Services with self-hosted LLMs

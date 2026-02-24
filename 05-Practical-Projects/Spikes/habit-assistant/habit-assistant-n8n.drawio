@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.5.2">
+  <diagram name="Page-1" id="gcVxsww28YoKMrenC6yx">
+    <mxGraphModel dx="976" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i1ZCZwX74XBbadg910_M-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;" value="" vertex="1">
+          <mxGeometry height="190" width="330" x="170" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="i1ZCZwX74XBbadg910_M-7" edge="1" parent="1" source="i1ZCZwX74XBbadg910_M-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" target="i1ZCZwX74XBbadg910_M-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i1ZCZwX74XBbadg910_M-14" edge="1" parent="1" source="i1ZCZwX74XBbadg910_M-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" target="i1ZCZwX74XBbadg910_M-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i1ZCZwX74XBbadg910_M-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Api call&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="40" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="i1ZCZwX74XBbadg910_M-13" edge="1" parent="1" source="i1ZCZwX74XBbadg910_M-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" target="i1ZCZwX74XBbadg910_M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i1ZCZwX74XBbadg910_M-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="read user preferences&lt;div&gt;(Mongo atlas)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="285" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="i1ZCZwX74XBbadg910_M-9" edge="1" parent="1" source="i1ZCZwX74XBbadg910_M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" target="i1ZCZwX74XBbadg910_M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i1ZCZwX74XBbadg910_M-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="read user activities&lt;br&gt;&lt;div&gt;(Mongo atlas)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="284" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="i1ZCZwX74XBbadg910_M-10" edge="1" parent="1" source="i1ZCZwX74XBbadg910_M-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" target="i1ZCZwX74XBbadg910_M-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i1ZCZwX74XBbadg910_M-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="Tranform data" vertex="1">
+          <mxGeometry height="70" width="100" x="530" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="i1ZCZwX74XBbadg910_M-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="Gen AI" vertex="1">
+          <mxGeometry height="70" width="100" x="690" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="i1ZCZwX74XBbadg910_M-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Loads the data&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="254" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="i1ZCZwX74XBbadg910_M-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;In format that LLMs accepts&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="535" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="i1ZCZwX74XBbadg910_M-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Output the results and chat&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="690" y="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
