@@ -1,0 +1,9 @@
+{
+  "_id": {
+    "$oid": "699f9de759a57d114bef99b2"
+  },
+  "preferences": [
+    "gym - 3x/week",
+    "running - 2x/week"
+  ]
+}
